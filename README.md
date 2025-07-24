@@ -9,7 +9,7 @@
 
 Klicke auf **[Releases](https://github.com/violine1101/mcw-de-aprilfools-staffs/releases)** und suche die neueste Version. Dort kannst du dir das aktuelle Ressourcen- bzw. Datenpaket herunterladen.
 
-Die heruntergeladene Datei fungiert sowohl als Datenpaket als auch als Ressourcenpaket und muss daher an zwei Stellen installiert werden. Für eine Anleitung, wie man Ressourcenpakete installiert, kannst du dir den [Artikel im Minecraft Wiki](https://de.minecraft.wiki/w/Anleitungen/Ressourcenpaket_erstellen) dazu durchlesen. Für das Datenpaket gibt es ebenfalls [eine Anleitung im Wiki](https://de.minecraft.wiki/w/Anleitungen/Datenpaket_erstellen).
+Die heruntergeladene Datei fungiert sowohl als Datenpaket als auch als Ressourcenpaket und muss daher an zwei Stellen installiert werden. Für eine Anleitung, wie man Ressourcenpakete installiert, kannst du dir den [Artikel im Minecraft Wiki](https://de.minecraft.wiki/w/Ressourcenpaket#Installation_und_Deinstallation) dazu durchlesen. Für das Datenpaket gibt es ebenfalls [eine Anleitung im Wiki](https://de.minecraft.wiki/w/Datenpaket#Installation_und_Deinstallation).
 
 ### Benutzung
 
@@ -33,7 +33,7 @@ Um die Feuerfontäne des Lavawals zu aktivieren, benutze `/function lavawhale:en
 
 Click at **[releases](https://github.com/violine1101/mcw-de-aprilfools-staffs/releases)** and look for the latest version. There you can download the most up-to-date resource/data pack.
 
-The downloaded file functions as both a data and a resource pack, thus you need to install it twice. For a tutorial on how to install a resource pack, you can read the [tutorial on the Minecraft Wiki](https://minecraft.wiki/Tutorias:Loading_a_resource_pack). There's also an article about [how to install data packs](https://minecraft.wiki/Tutorial:Installing_a_data_pack) there.
+The downloaded file functions as both a data and a resource pack, thus you need to install it twice. For a tutorial on how to install a resource pack, you can read the [tutorial on the Minecraft Wiki](https://minecraft.wiki/w/Tutorial:Loading_a_resource_pack). There's also an article about [how to install data packs](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack) there.
 
 ### Usage
 
